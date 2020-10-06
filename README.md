@@ -1,6 +1,8 @@
 # nginx-conf
 Handy sets of NginX Configurations
 
+<img src="images/nginx-conf.png">
+
 ## Installation
 [Official Documentation](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/)<br/>
 [My Preference](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
